@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.AssemblyInfo.cs
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\RNG.exe
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\RNG.deps.json
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\RNG.runtimeconfig.json
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\RNG.dll
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\ref\RNG.dll
+C:\Users\HP\source\repos\RNG\RNG\bin\Debug\net6.0\RNG.pdb
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.dll
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\ref\RNG.dll
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.pdb
+C:\Users\HP\source\repos\RNG\RNG\obj\Debug\net6.0\RNG.genruntimeconfig.cache
