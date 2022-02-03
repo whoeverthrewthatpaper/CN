@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\MonteCarlo.exe
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\MonteCarlo.deps.json
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\MonteCarlo.runtimeconfig.json
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\MonteCarlo.dll
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\ref\MonteCarlo.dll
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net6.0\MonteCarlo.pdb
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.AssemblyInfo.cs
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.dll
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\ref\MonteCarlo.dll
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.pdb
+C:\Users\HP\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net6.0\MonteCarlo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\NumeralSystem.exe
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\NumeralSystem.deps.json
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\NumeralSystem.runtimeconfig.json
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\NumeralSystem.dll
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\ref\NumeralSystem.dll
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\bin\Debug\net6.0\NumeralSystem.pdb
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.dll
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\ref\NumeralSystem.dll
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.pdb
+C:\Users\HP\source\repos\NumeralSystem\NumeralSystem\obj\Debug\net6.0\NumeralSystem.genruntimeconfig.cache
