@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\LinearEquations.exe
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\LinearEquations.deps.json
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\LinearEquations.runtimeconfig.json
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\LinearEquations.dll
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\ref\LinearEquations.dll
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\bin\Debug\net6.0\LinearEquations.pdb
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.AssemblyInfo.cs
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.dll
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\ref\LinearEquations.dll
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.pdb
+C:\Users\HP\source\repos\LinearEquations\LinearEquations\obj\Debug\net6.0\LinearEquations.genruntimeconfig.cache
