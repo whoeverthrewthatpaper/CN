@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\PolynomialFunction.exe
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\PolynomialFunction.deps.json
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\PolynomialFunction.runtimeconfig.json
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\PolynomialFunction.dll
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\ref\PolynomialFunction.dll
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\bin\Debug\net6.0\PolynomialFunction.pdb
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.AssemblyInfo.cs
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.dll
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\ref\PolynomialFunction.dll
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.pdb
+C:\Users\HP\source\repos\PolynomialFunction\PolynomialFunction\obj\Debug\net6.0\PolynomialFunction.genruntimeconfig.cache

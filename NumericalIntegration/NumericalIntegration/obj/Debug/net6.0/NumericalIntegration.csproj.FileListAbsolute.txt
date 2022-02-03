@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\NumericalIntegration.exe
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\NumericalIntegration.deps.json
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\NumericalIntegration.runtimeconfig.json
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\NumericalIntegration.dll
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\ref\NumericalIntegration.dll
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\net6.0\NumericalIntegration.pdb
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.dll
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\ref\NumericalIntegration.dll
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.pdb
+C:\Users\HP\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\net6.0\NumericalIntegration.genruntimeconfig.cache
